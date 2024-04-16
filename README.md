@@ -43,7 +43,6 @@
 <div align="left">
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<!--   <img alt="Material-UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>  -->
 </div>
 
 <h3 align="left">Databases :</h3>
@@ -60,13 +59,14 @@
 
 <h3 align="left">Software :</h3>
 <div align="left">
-<!--   <img alt="Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/> -->
-<!--   <img alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/> -->
   <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
     <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </div><br/>
 <br/>
-
+<p>
+    <a  href="https://github.com/agrawalaman775/github-readme-stats"><img align="left" alt="agrawalaman775's Github Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=agrawalaman775&show_icons=true&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
+     <p><a href="https://github.com/agrawalaman775/github-readme-stats"><img align="center" alt="agrawalaman775's Top Languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=agrawalaman775&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
+ <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=agrawalaman775&&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true" alt="agrawalaman775" /></p>
 <!--
 **agrawalaman775/agrawalaman775** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
